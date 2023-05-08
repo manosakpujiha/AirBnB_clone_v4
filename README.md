@@ -155,4 +155,5 @@ No known bugs at this time.
 
 ## Authors
 Manos Akpujiha - [Github](https://github.com/manosakpujiha) / ## License
+Hussaini Chado - [Github] (https://github.com/Saddamzy001)
 Public Domain. No copy write protection. 
